@@ -13,6 +13,7 @@ streamlit-extras = "*"
 langchain-community = "*"
 openai = "*"
 tiktoken = "*"
+langchain-openai = "*"
 
 [dev-packages]
 
